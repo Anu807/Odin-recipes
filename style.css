@@ -299,3 +299,5 @@ section .main_btn:hover i{
 .menu .menu_box .menu_card .small_card i:hover{
     color: #fac031;
 }
+
+h1,footer{text-align: center;}
